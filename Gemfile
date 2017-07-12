@@ -1,2 +1,2 @@
-source 'https://rudygems.org'
+source 'https://rubygems.org'
 gem 'sinatra'
